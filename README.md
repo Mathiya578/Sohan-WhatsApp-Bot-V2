@@ -61,7 +61,7 @@ src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
 ---------
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://repl.it/github/xIKRATOSx/Ikratos-MD-v1)
+[![Run on Repl.it](https://repl.it/badge/github/Mathiya578/Sohan-WhatsApp-Bot-V2)](https://github.com/Mathiya578/Sohan-WhatsApp-Bot-V2)
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
