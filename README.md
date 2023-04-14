@@ -1,6 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <a href="https://ibb.co/N6NMDtn"><img src="https://i.ibb.co/cc8jfkX/01.jpg" alt="01" border="0" /></a>
+    <a href="https://ibb.co/N6NMDtn"><img src="thumbnail.jpg" alt="01" border="0" /></a>
 </p>
 
 ## PENTING
@@ -9,19 +9,19 @@
 
 <h1 align="center">Sohan WhatsApp Bot V2</h1>
 <p align="center">
-  <a href="https://github.com/xIKRATOSx"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/Mathiya578"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="IkratosBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Sohan WhatsApp Bot V2" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/xIKRATOSx"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Mathiya578"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Mathiya578-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
 ## ```Contact Me 💌``` 
-  <a href="https://wa.me/923470027813">
+  <a href="https://wa.me/94757962326">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:bmclips001@gmail.com">
@@ -29,7 +29,7 @@
   </a> &nbsp;&nbsp;
 ---------
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923470027813) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94757962326) 
 ---------
 
 ### a little about this bot
@@ -40,12 +40,12 @@
 ---------
 
 ## ``Group Panelku Hosting``
-[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y) 
+[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DxIbff9zw5Y) 
 ---------
 
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xIKRATOSx/Ikratos-MD-v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mathiya578/Sohan-WhatsApp-Bot-V2)
 ---------
 
 ## ```STEPS TO DEPLOY ON HEROKU```
@@ -60,10 +60,6 @@
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 ---------
 
-## ```USER RAILWAY```
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
-
 ## ```USER REPLIT```
 [![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://repl.it/github/xIKRATOSx/Ikratos-MD-v1)
 ## TERMUX USER
@@ -73,8 +69,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
-$ cd Ikratos-MD-v1
+$ git clone https://github.com/Mathiya578/Sohan-WhatsApp-Bot-V2
+$ cd Sohan-WhatsApp Bot-V2
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -132,8 +128,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
-cd Ikratos-MD-v1
+git clone https://github.com/Mathiya578/Sohan-WhatsApp-Bot-V2
+cd Sohan-WhatsApp-Bot-V2
 npm install
 npm update
 ```
@@ -186,12 +182,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 <h1 align="center">RECODED BY</h1>
 <p align="center">
-<a href="https://github.com/xIKRATOSx"><img src="https://github.com/xIKRATOSx.png" width="300" height="300" alt="xIKRATOSx"/></a>
+<a href="https://github.com/Mathiya578"></a>
 </p>
 
 ----------
-
-<h1 align="center">THANKS TO</h1>
-<p align="center">
-<a href="https://github.com/BlackAmda"><img src="https://github.com/BlackAmda.png" width="300" height="300" alt="BlackAmda"/></a>
-</p>
